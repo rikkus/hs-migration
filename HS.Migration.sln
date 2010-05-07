@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS.Migration", "HS.Migration\HS.Migration.csproj", "{6151C8D5-6D58-4749-9B20-94AA34138DEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS.Migration.Tests", "HS.Migration.Tests\HS.Migration.Tests.csproj", "{7FF81550-6188-4505-BC80-ADF968A737E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6151C8D5-6D58-4749-9B20-94AA34138DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6151C8D5-6D58-4749-9B20-94AA34138DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6151C8D5-6D58-4749-9B20-94AA34138DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6151C8D5-6D58-4749-9B20-94AA34138DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF81550-6188-4505-BC80-ADF968A737E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF81550-6188-4505-BC80-ADF968A737E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF81550-6188-4505-BC80-ADF968A737E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF81550-6188-4505-BC80-ADF968A737E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
